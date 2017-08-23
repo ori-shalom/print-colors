@@ -1,6 +1,10 @@
 {
   "name": "print-colors",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ori-shalom/print-colors.git"
+  },
   "description": "Print colors to the console with nice and easy to use syntax",
   "main": "print-colors.js",
   "scripts": {

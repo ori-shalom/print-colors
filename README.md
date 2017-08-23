@@ -1,5 +1,5 @@
 # print-colors
-Print colors to the console with nice and easy to use syntax.
+**_print-colors_** is a very lightweight library for printing colors to the console using a nice and easy to use syntax.
 
 Import the module to your project:
 ```javascript
