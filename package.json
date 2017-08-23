@@ -1,0 +1,24 @@
+{
+  "name": "print-colors",
+  "version": "1.0.0",
+  "description": "Print colors to the console with nice and easy to use syntax",
+  "main": "print-colors.js",
+  "scripts": {
+    "test": "node print-colors.js"
+  },
+  "keywords": [
+    "colors",
+    "print",
+    "cmd",
+    "bash",
+    "cli",
+    "command",
+    "line",
+    "console",
+    "log",
+    "color",
+    "rainbow"
+  ],
+  "author": "Ori Shalom",
+  "license": "ISC"
+}
